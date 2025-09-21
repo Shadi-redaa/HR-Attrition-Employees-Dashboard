@@ -1,4 +1,4 @@
-# 📊 HR Attrition Employees Dashboard  
+# 📊 HR Attrition Employees Dashboard - Excel
 
 ## 📌 Project Overview  
 This project presents an **HR Attrition Analytics Dashboard** designed to monitor employee attrition trends and provide actionable insights for HR decision-making.  
